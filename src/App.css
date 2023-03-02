@@ -1,0 +1,37 @@
+.App {
+  text-align: left;
+}
+
+h3{
+  margin-left: 20px;
+}
+
+button{
+  margin-left: 20px;
+}
+
+.App-header {
+  background-color: #930ea1;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+  border-bottom: 4px double purple;
+}
+
+#hello{
+  margin-left: 20px;
+}
+
+#circle{
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  height: 50px;
+  width: 50px;
+  background-color: white;
+  border-radius: 100%;
+  box-shadow: 0 0 20px whitesmoke;
+}
+
